@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **Hanuhitha/hanuhitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanuhitha&label=Profile%20views&color=0e75b6&style=flat" alt="hanuhitha" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanuhitha" alt="hanuhitha" /></a> </p>
+<!-- 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanuhitha" alt="hanuhitha" /></a> </p> -->
 
 - 🔭 I’m currently working at CNS as **Research Assistant - Software Developer at Indiana Univeristy.**
 
