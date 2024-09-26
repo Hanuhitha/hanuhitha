@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanuhitha" alt="hanuhitha" /></a> </p> -->
 
-- 🔭 I’m currently working at CNS as **Research Assistant - Software Developer at Indiana Univeristy.**
+- 🔭 I’m currently working as **Full stack- Software Developer**
 
 - 🌱 I’m currently learning **AWS Cloud Services**
 
